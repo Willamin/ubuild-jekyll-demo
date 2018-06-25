@@ -1,0 +1,12 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  label: something cool
+  name: something_cool
+  config:
+    required: true
+- type: blocks
+  name: blocks
+  label: blocks
