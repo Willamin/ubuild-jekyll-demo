@@ -10,5 +10,23 @@ fields:
 - type: blocks
   name: blocks
   label: blocks
+  template_types:
+  - 1-column-text
+  - 2-column-media-element
+  - 2-column-text
+  - 3-column-text
+  - 4-column-footer
+  - content-feature
+  - detail-content
+  - full-width-media-element
+  - hero-banner-w-image
+  - navigation-header-w-button
+  - navigation-header
+  - signup-bar
+  - simple-footer
+  - simple-header
+  - text-column
+  - text-1
+  - text-only-hero-banner
 pages:
 - asdfasdf.md
