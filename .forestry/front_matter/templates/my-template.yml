@@ -10,3 +10,5 @@ fields:
 - type: blocks
   name: blocks
   label: blocks
+pages:
+- asdfasdf.md
